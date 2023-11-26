@@ -9,89 +9,89 @@
                 </p>
                 <h3>Front-End Implementation:</h3>
                 
-                <h4>Initial Page (start.php):</h4>
+                <h3>Initial Page (start.php):</h3>
                 <p>
                 Warm welcome and information about the Swach Bharath Mission.
               
-                <h4>Navigation options:</h4> 
+                <h3>Navigation options:</h3> 
                 <p>
                   Home, Contact, Login.
               </p>
               
-                <h4>SignUp Page:</h4>
+                <h3>SignUp Page:</h3>
                 <p>
                 User registration with input for Email ID and password.
                 Automatic generation of a unique username.
                 Confirmation password for security.
                 SignUp button to create an account.</p>
-                <h4>Login Page:</h4>
+                <h3>Login Page:</h3>
                 <p>
                 Username and password entry for registered users.
                 Option to recover password if forgotten.
                 Error page for incorrect credentials.
               </p>
-                <h4>Index Page (After Login):</h4>
+                <h3>Index Page (After Login):</h3>
                 <p>
                 Welcomes the user after successful login.
                 Provides options for reporting a dirty area.
               </p>
-                <h4>Upload Image Page:</h4>
+                <h3>Upload Image Page:</h3>
                 <p>
                 Allows users to upload images of polluted areas.
                 Requests location access for automatic geotagging.
               </p>
-                <h4>Location Detection Popup:</h4>
+                <h3>Location Detection Popup:</h3>
                 <p>
                 Asks for permission to access location for geotagging.
                 Automatically captures latitude and longitude coordinates.
               </p>
-                <h4>Upload Page (upload.php):</h4>
+                <h3>Upload Page (upload.php):</h3>
                 <p>
                 Prompts users to choose an image file for upload.
                 Displays a sample image upload process.
                 Thanks the user for contributing to the initiative.
               </p>
-                <h4>Contact Us Page:</h4>
+                <h3>Contact Us Page:</h3>
                 <p>
                 Provides contact information for inquiries or feedback.
               </p>
-              <h4>Back-End Implementation:</h4>
+              <h3>Back-End Implementation:</h3>
                
-                <h4>Database:</h4>
+                <h3>Database:</h3>
                 <p>
                 MySQL relational database management system is used
               </p>
-                <h4>Tables:</h4> 
+                <h3>Tables:</h3> 
                 <p>
                   'users' for storing user details (Email, Username, Password) and 'upload' for storing uploaded 
                   images, latitude, longitude, and the associated username.
                 </p>
-                <h4>User Authentication:</h4>
+                <h3>User Authentication:</h3>
                 <p>
                 Secure user authentication with generated unique usernames.
               </p>
-                <h4>Geotagging:</h4>
+                <h3>Geotagging:</h3>
                 <p>
                 Captures and stores latitude and longitude coordinates for each uploaded image.
               </p>
-                <h4>Image Storage:</h4>
+                <h3>Image Storage:</h3>
                 <p>
                 Creates an 'upload' folder to store user-uploaded images.
               </p>
-                <h4>Location Mapping:</h4>
+                <h3>Location Mapping:</h3>
                 <p>
                 Utilizes coordinates to pinpoint the exact location on maps.
               </p>
-                <h4>Tools and Technologies Used:</h4>
-                <h4>Front-End Languages:</h4>
+                <h3>Tools and Technologies Used:</h3>
+                <h3>Front-End Languages:</h3>
                 <p>
                  HTML5, CSS3, JavaScript, jQuery
                 </p>
-                 <h4>Back-End Languages:</h4> 
+                 <h3>Back-End Languages:</h3> 
                  <p>PHP, JavaScript</p>
-                 <h4>Database:</h4> 
+                 <h3>Database:</h3> 
                  <p>MySQL</p>
-                 <h4>Development Environment:</h4> 
+                 <h3>Development Environment:</h3> 
                  <p>Visual Studio Code (VS Code), XAMPP</p>
               
                 <p>
@@ -100,5 +100,7 @@
                   and backend functionalities, the application bridges the gap between citizens and municipal 
                   corporations, fostering a sense of responsibility towards a cleaner and healthier environment.
               </p>
+
+
 
 
