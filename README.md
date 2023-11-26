@@ -13,7 +13,6 @@
                 Warm welcome and information about the Swach Bharath Mission.</p>
                 <h3>Navigation options:</h3> 
                 <p>Home, Contact, Login.</p>
-              
                 <h3>SignUp Page:</h3>
                 <p>
                 User registration with input for Email ID and password.
@@ -52,7 +51,6 @@
                 Provides contact information for inquiries or feedback.
               </p>
               <h3>Back-End Implementation:</h3>
-               
                 <h3>Database:</h3>
                 <p>
                 MySQL relational database management system is used
@@ -89,7 +87,6 @@
                  <p>MySQL</p>
                  <h3>Development Environment:</h3> 
                  <p>Visual Studio Code (VS Code), XAMPP</p>
-              
                 <p>
                 The Clean India Initiative Web Application encourages users to actively participate in maintaining
                  cleanliness and hygiene in their surroundings. By seamlessly integrating user-friendly features
