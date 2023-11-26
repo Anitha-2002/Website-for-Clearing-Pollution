@@ -12,9 +12,7 @@
                 <p>
                 Warm welcome and information about the Swach Bharath Mission.</p>
                 <h3>Navigation options:</h3> 
-                <p>
-                  Home, Contact, Login.
-              </p>
+                <p>Home, Contact, Login.</p>
               
                 <h3>SignUp Page:</h3>
                 <p>
