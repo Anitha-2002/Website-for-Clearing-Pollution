@@ -8,11 +8,9 @@
                   Here is a summary of the key features and functionalities:
                 </p>
                 <h3>Front-End Implementation:</h3>
-                
                 <h3>Initial Page (start.php):</h3>
                 <p>
-                Warm welcome and information about the Swach Bharath Mission.
-              
+                Warm welcome and information about the Swach Bharath Mission.</p>
                 <h3>Navigation options:</h3> 
                 <p>
                   Home, Contact, Login.
